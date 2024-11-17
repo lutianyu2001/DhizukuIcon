@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   id="svg16"
+   version="1.1"
+   viewBox="0 0 128 128"
+   height="128"
+   width="128">
+  <title
+     id="title22">Dizuku Icon</title>
+  <defs
+     id="defs10">
+    <linearGradient
+       id="Cat">
+      <stop
+         style="stop-color:#000000;stop-opacity:0.70588237"
+         offset="0"
+         id="stop1276" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0"
+         offset="1"
+         id="stop1278" />
+    </linearGradient>
+    <linearGradient
+       id="Background_Android">
+      <stop
+         id="stop911"
+         offset="0"
+         style="stop-color:#4a4a4a;stop-opacity:1" />
+      <stop
+         id="stop913"
+         offset="1"
+         style="stop-color:#4a4a4a;stop-opacity:0.9137255" />
+    </linearGradient>
+    <linearGradient
+       id="Cat_Ass">
+      <stop
+         id="stop896"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1;" />
+      <stop
+         id="stop898"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:0.25098041" />
+    </linearGradient>
+    <linearGradient
+       id="Background_iOS">
+      <stop
+         id="stop1330"
+         offset="0"
+         style="stop-color:#4a4a4a;stop-opacity:1" />
+      <stop
+         id="stop1332"
+         offset="1"
+         style="stop-color:#4a4a4a;stop-opacity:0.91534394" />
+    </linearGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       r="64"
+       fy="64"
+       fx="64"
+       cy="64"
+       cx="64"
+       id="radialGradient1336"
+       xlink:href="#Background_iOS" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="128"
+       x2="128"
+       y1="104"
+       x1="104"
+       id="linearGradient902"
+       xlink:href="#Cat_Ass" />
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       r="64"
+       fy="64"
+       fx="64"
+       cy="64"
+       cx="64"
+       id="radialGradient917"
+       xlink:href="#Background_Android" />
+    <linearGradient
+       y2="128"
+       x2="128"
+       y1="88"
+       x1="88"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient1273"
+       xlink:href="#Cat" />
+  </defs>
+  <metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Dizuku Icon</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/" />
+        <dc:date>2024-11-17 04:00 (CST)</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>lutianyu2001</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     style="display:none"
+     id="layer2">
+    <rect
+       id="rect1001"
+       rx="26"
+       height="128"
+       width="128"
+       y="0"
+       x="0"
+       style="fill:url(#radialGradient1336);fill-opacity:1" />
+  </g>
+  <g
+     style="display:none"
+     id="layer5">
+    <circle
+       r="64"
+       cy="64"
+       cx="64"
+       id="path906"
+       style="display:inline;fill:url(#radialGradient917);fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  </g>
+  <g
+     style="display:inline"
+     id="layer4">
+    <path
+       id="path1003"
+       d="m 46.754097,44 h 34.491807 q 3.233606,0 3.233606,2.933333 V 70.4 Q 84.47951,80.177778 64,88 43.52049,80.177778 43.52049,70.4 V 46.933333 Q 43.52049,44 46.754097,44 Z"
+       style="display:inline;fill:#ffffff;fill-opacity:0.50196078;stroke-width:0.51330215" />
+  </g>
+  <g
+     style="display:none"
+     id="layer3">
+    <path
+       style="fill:url(#linearGradient902);fill-opacity:1"
+       d="m 128,80 v 22 c 0,14.48235 -11.76985,26 -26,26 H 80 l 20,-28 z"
+       id="path1241" />
+    <path
+       id="path1032"
+       d="m 48,72 c 3.375,15.25 11.0625,36.9375 32,56 L 104,104 72,68 64,76 C 60.044194,74.62998 56.353553,72.883883 48,72 Z"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       r="2"
+       cy="88.169792"
+       cx="72.003578"
+       id="path1034"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.52636135;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       id="path1032-3"
+       d="m 72,48 c 15.25,3.375 36.9375,11.0625 56,32 L 104,104 68,72 76,64 C 74.62998,60.044194 72.883883,56.353553 72,48 Z"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       transform="matrix(0,1,1,0,0,0)"
+       r="2"
+       cy="88.169792"
+       cx="72.003578"
+       id="path1034-8"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.52636135;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  </g>
+  <g
+     id="g1271"
+     style="display:inline">
+    <path
+       id="path1261"
+       d="m 72,48 c 0.883883,8.353553 2.62998,12.044194 4,16 -4.027354,4.027354 -8.437857,8.437857 -12,12 -3.955806,-1.37002 -7.646447,-3.116117 -16,-4 3.375,15.25 11.0625,36.9375 32,56 h 22 c 14.23015,0 26,-11.51765 26,-26 V 80 C 108.9375,59.0625 87.25,51.375 72,48 Z"
+       style="fill:url(#linearGradient1273);fill-opacity:1" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.52636135;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle1265"
+       cx="72.003578"
+       cy="88.169792"
+       r="2" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.52636135;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle1269"
+       cx="72.003578"
+       cy="88.169792"
+       r="2"
+       transform="matrix(0,1,1,0,0,0)" />
+  </g>
+  <g
+     style="display:none"
+     transform="translate(0,-301.37501)"
+     id="layer1">
+    <g
+       id="g901">
+      <path
+         style="fill:none;stroke:#ff0000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.20000002, 1.20000002;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 64,285.37501 v 160"
+         id="path831" />
+      <path
+         style="fill:none;stroke:#ff0000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.20000002, 1.20000002;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 144,365.37501 H -16"
+         id="path831-0" />
+      <path
+         style="fill:none;stroke:#0000ff;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.20000002, 1.20000002;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 48,285.37501 v 160"
+         id="path831-5" />
+      <path
+         style="fill:none;stroke:#0000ff;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.20000002, 1.20000002;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 144,349.37501 H -16"
+         id="path831-0-7" />
+      <path
+         style="fill:none;stroke:#ff0000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.2, 1.2;stroke-dashoffset:0;stroke-opacity:1"
+         d="m -12,289.37501 152,152"
+         id="path878" />
+      <path
+         style="fill:none;stroke:#ff0000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.2, 1.2;stroke-dashoffset:0;stroke-opacity:1"
+         d="m -12,441.37501 152,-152"
+         id="path878-0" />
+    </g>
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.2, 1.2;stroke-dashoffset:0;stroke-opacity:1"
+       d="m -4,445.37501 151.99999,-152"
+       id="path878-0-5" />
+  </g>
+</svg>
